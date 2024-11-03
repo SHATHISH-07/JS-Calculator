@@ -98,7 +98,7 @@ function App() {
 
           <button
             id="percentage"
-            onClick={() => buttonPress("percentage")}
+            onClick={() => buttonPress("%")}
             className="light-gray"
           >
             %
